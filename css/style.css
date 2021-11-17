@@ -77,3 +77,64 @@ body{
     font-weight: 500;
 
 }
+
+.testing{
+    margin-top: 50px;
+    width: 100%;
+    height: 499px;
+    background: url(../img/bg-2.jpg);
+}
+
+.testing--link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background: rgba(38, 44, 65, 0.6);
+}
+
+.testing button{
+    margin-top: 20px;
+    color: #fff;
+    background: none;
+    padding: 10px 50px;
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+.university{
+    margin-top: 40px;
+    padding: 30px 0;
+    background-color: #424965;
+    text-align: center;
+}
+
+.university h1{
+    font-size: 24px;
+    font-weight: 700;
+    
+}
+
+.block{
+    width: 1028px;
+    display: flex;
+    margin: 0 auto;
+
+}
+.__first{
+    margin: 40px 40px 40px 0;
+}
+
+.__img--1{
+    margin-bottom: 40px;
+}
+.__second{
+   margin-top: 40px;
+}
+
+.__second p{
+    font-size: 24px;
+    width: 474px;
+}
